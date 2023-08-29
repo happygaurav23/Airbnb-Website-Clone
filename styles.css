@@ -19,7 +19,7 @@ body{
     padding: 20px 64px;
     border-bottom: 1px solid #ebebeb;
     background-color: white;
-    z-index: 999;
+    z-index: 1;
 }
 
 .control-card-container{
